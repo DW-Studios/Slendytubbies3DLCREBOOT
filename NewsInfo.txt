@@ -61,3 +61,35 @@ Agregado:
 
 
 Versión 1_0 (Versión de lanzamiento)
+
+(ID2):
+Atualização v1_3
+Mudanças:
+- Melhorias no Capítulo 1
+Agregar:
+- Lançador de jogo
+- Conclua o Capítulo 3
+- O que vem depois do episódio 1 DEMO
+- Atualizações de notícias em tempo real
+- 3 novos mapas no modo de coleta
+
+
+Atualização v1_2
+Agregar:
+- Conclua o Capítulo 2
+
+
+Atualização v1_1:
+Agregar:
+- Novo menu principal
+- Novo modo de jogo
+- Novas configurações
+- Seleção de capítulo
+- Conclua o Capítulo 0
+- Capítulo 2 DEMO
+- Correções de bugs e ajustes
+- Ovos de Páscoa
+- Otimização e etc.
+
+
+Versão 1_0 (versão de lançamento)
