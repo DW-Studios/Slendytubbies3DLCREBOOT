@@ -1,4 +1,4 @@
-0:
+(ID0):
 Update v1_3
 Changes:
 - Improvements In Chapter 1
@@ -30,7 +30,7 @@ Added:
 
 Version 1_0 (Realease Version)
 
-1:
+(ID1):
 Actualización v1_3
 Cambios:
 - Mejoras en el Capítulo 1
