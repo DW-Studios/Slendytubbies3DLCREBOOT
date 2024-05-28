@@ -1,2 +1,63 @@
 0:
+Update v1.3
+Changes:
+- Improvements In Chapter 1
+Added:
+- Game Launcher
+- Chapter 3 Full
+- What Comes After Episode 1 DEMO
+- News Of Updates In Real Time
+- 3 New Maps In Collect Mode
+
+
+Update v1.2
+Added:
+- Chapter 2 Full
+
+
+Update v1.1:
+Added:
+- New Main Menu
+- New Game Mode
+- New Settings
+- Chapter Selection
+- Chapter 0 Full
+- Chapter 2 DEMO
+- Bugfixes & Tweaks
+- Easter Eggs
+- Optimization and Etc.
+
+
+Version 1.0 (Realease Version)
+
+1:
+Actualización v1.3
+Cambios:
+- Mejoras en el Capítulo 1
+Agregado:
+- Lanzador de juegos
+- Capítulo 3 Completo
+- Lo que viene después del episodio 1 DEMO
+- Noticias de actualizaciones en tiempo real
+- 3 nuevos mapas en modo coleccionar
+
+
+Actualización v1.2
+Agregado:
+- Capítulo 2 Completo
+
+
+Actualización v1.1:
+Agregado:
+- Nuevo menú principal
+- Nuevo modo de juego
+- Nuevas configuraciones
+- Selección de capítulos
+- Capítulo 0 completo
+- Capítulo 2 DEMOSTRACIÓN
+- Correcciones de errores y ajustes
+- Huevos de Pascua
+- Optimización y etc.
+
+
 Versión 1.0 (Versión de lanzamiento)
