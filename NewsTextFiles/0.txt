@@ -1,0 +1,25 @@
+v1.3 (FULL GAME):
+Chapter 3
+New Launcher
+New Main Menu
+New Settings
+Achievements
+GameJolt Sign In
+
+v1.2:
+Chapter 2 Full
+Unlockable Chapters
+Bugfixes & Tweaks.
+
+v1.1 DEMO:
+New Main Menu
+New Game Mode (Collect Mode BETA)
+New Features
+Chapter Selection
+Full Chapter 0
+Chapter 2 DEMO
+BugFixes and Tweaks
+Optimization and Etc.
+
+v1.0 DEMO:
+First Time Realease Version.
