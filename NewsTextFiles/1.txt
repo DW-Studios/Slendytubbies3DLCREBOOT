@@ -1,4 +1,25 @@
-Nueva Actualizacion
-cosasss
-mascosas
-SI, ACTUALIZACION DE FNF XDDDDDDDDD
+v1.3 (JUEGO COMPLETO):
+Capítulo 3
+Nuevo launcher
+Nuevo menú principal
+Nuevas configuraciones
+Logros
+Inicio de sesión con GameJolt
+
+v1.2:
+Capítulo 2 Completo
+Capítulos desbloqueables
+Correcciones de errores y ajustes.
+
+v1.1 DEMO:
+Nuevo menú principal
+Nuevo modo de juego (Modo Recoger BETA)
+Nuevas características
+Selección de capítulo
+Capítulo completo 0
+Capítulo 2 DEMO
+Corrección de errores y ajustes
+Optimización y etc.
+
+v1.0 DEMO:
+Versión de lanzamiento por primera vez.
