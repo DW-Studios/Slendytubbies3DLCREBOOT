@@ -22,4 +22,4 @@ Corrección de errores y ajustes
 Optimización y etc.
 
 v1.0 DEMO:
-Versión de lanzamiento por primera vez.
+Versión de lanzamiento por primera vez
