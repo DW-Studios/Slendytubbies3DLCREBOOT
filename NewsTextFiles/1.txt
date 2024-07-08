@@ -1,10 +1,14 @@
+v1.3.1 (The UltraBugFix Patch Update)
+Nueva pantalla de inicio (No Launcher)
+Arreglos de bugs
+Capítulo 3 roto en los flashbacks
+Nueva opción en el menú de pausa
+
 v1.3 (JUEGO COMPLETO):
 Capítulo 3
 Nuevo launcher
 Nuevo menú principal
 Nuevas configuraciones
-Logros
-Inicio de sesión con GameJolt
 
 v1.2:
 Capítulo 2 Completo
