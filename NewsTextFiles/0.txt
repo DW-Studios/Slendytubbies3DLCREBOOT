@@ -1,10 +1,15 @@
+v1.3.1 (The UltraBugFix Patch Update)
+New initial screen (not launcher)
+Bug fixes
+Chapter 3 broken in flashbacks
+New option in the pause menu
+Chapter 3 Po battle translation bugfix
+
 v1.3 (FULL GAME):
 Chapter 3
 New Launcher
 New Main Menu
 New Settings
-Achievements
-GameJolt Sign In
 
 v1.2:
 Chapter 2 Full
