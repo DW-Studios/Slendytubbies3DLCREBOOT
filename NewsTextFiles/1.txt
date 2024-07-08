@@ -3,6 +3,7 @@ Nueva pantalla de inicio (No Launcher)
 Arreglos de bugs
 Capítulo 3 roto en los flashbacks
 Nueva opción en el menú de pausa
+Chapter 3 Po battle translation bugfix
 
 v1.3 (JUEGO COMPLETO):
 Capítulo 3
