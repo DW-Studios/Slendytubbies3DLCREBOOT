@@ -1,4 +1,23 @@
+v1.3.2 (Achievements & Secrets Update)
+Added:
+Laa Laa alive original route
+Login with GameJolt
+Achievements
+Windmill in Main Land
+Backpack for guardian in all chapters
+Portuguese Language
+Updated:
+Initial cutscenes in chapter 0 (Day & Night)
+Some part of chapters 0, 1 and 2.
+The credits
+Changed:
+The initial launcher
+Bugfixes:
+Quicktime events on Chapter 0 and 2
+Laa Laa's easter egg visual effects
+
 v1.3.1 (The UltraBugFix Patch Update)
+Added:
 New initial screen (not launcher)
 Bug fixes
 Chapter 3 broken in flashbacks
@@ -6,17 +25,22 @@ New option in the pause menu
 Chapter 3 Po battle translation bugfix
 
 v1.3 (FULL GAME):
+Added:
 Chapter 3
 New Launcher
 New Main Menu
 New Settings
+Removed:
+Collect Mode
 
 v1.2:
+Added:
 Chapter 2 Full
 Unlockable Chapters
 Bugfixes & Tweaks.
 
 v1.1 DEMO:
+Added:
 New Main Menu
 New Game Mode (Collect Mode BETA)
 New Features
