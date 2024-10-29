@@ -1,30 +1,56 @@
-v1.3.1 (The UltraBugFix Patch Update)
-Nueva pantalla de inicio (No Launcher)
-Arreglos de bugs
-Capítulo 3 roto en los flashbacks
+v1.3.2 (Actualización de logros y secretos)
+Agregado:
+Laa Laa viva ruta original
+Iniciar sesión con GameJolt
+Logros
+Molino de viento en tierra firme
+Mochila para guardián en todos los capítulos.
+Idioma Portugués
+Actualizado:
+Escenas iniciales en el capítulo 0 (Día y Noche)
+Alguna parte de los capítulos 0, 1 y 2.
+los creditos
+Cambió:
+La seleccion de juegos fue cambiada por un launcher
+Correcciones de errores:
+Eventos de Quicktime en los Capítulos 0 y 2
+Efectos visuales del huevo de pascua de Laa Laa
+Eliminado:
+Launcher antiguo
+
+v1.3.1 (La actualización del parche UltraBugFix)
+Agregado:
+Nueva pantalla inicial (no launcher)
 Nueva opción en el menú de pausa
-Capítulo 3 arreglo de traducciones en la batalla de Po
+Errores corregidos:
+Capítulo 3 roto en flashbacks
+Errores de traducción de batalla de Po en el Capítulo 3
 
 v1.3 (JUEGO COMPLETO):
+Agregado:
 Capítulo 3
-Nuevo launcher
+Nuevo lanzador
 Nuevo menú principal
 Nuevas configuraciones
+Remoto:
+Modo de recolección
 
 v1.2:
+Agregado:
 Capítulo 2 Completo
 Capítulos desbloqueables
 Correcciones de errores y ajustes.
 
-v1.1 DEMO:
+DEMOSTRACIÓN v1.1:
+Agregado:
 Nuevo menú principal
 Nuevo modo de juego (Modo Recoger BETA)
 Nuevas características
 Selección de capítulo
 Capítulo completo 0
-Capítulo 2 DEMO
+Capítulo 2 DEMOSTRACIÓN
 Corrección de errores y ajustes
 Optimización y etc.
 
-v1.0 DEMO:
+DEMOSTRACIÓN v1.0:
 Versión de lanzamiento por primera vez.
