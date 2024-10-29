@@ -1,14 +1,14 @@
 v1.3.2 (Actualizacion Logros & secretos)
 Agregado:
 Ruta original de Laa Laa viva
-Iniciar sesión con GameJolt
+Iniciar sesion con GameJolt
 Logros
-Molino de viento en tierra firme
-Mochila para el Guardián en todos los capítulos.
-Idioma Portugués
+Molino de viento en MainLand
+Mochila para el Guardian en todos los capitulos.
+Idioma Portugues
 Actualizado:
-Escenas iniciales en el capítulo 0 (Día y Noche)
-Alguna parte de los capítulos 0, 1 y 2
+Escenas iniciales en el capítulo 0 (Dia y Noche)
+Alguna parte de los capitulos 0, 1 y 2
 Los creditos
 Cambió:
 La seleccion de juegos fue cambiada por un launcher
@@ -21,36 +21,36 @@ Launcher antiguo
 v1.3.1 (Parche UltraBugFix)
 Agregado:
 Nueva pantalla inicial (no launcher)
-Nueva opción en el menú de pausa
+Nueva opcion en el menú de pausa
 Errores corregidos:
-Capítulo 3 roto en flashbacks
-Errores de traducción de batalla de Po en el Capítulo 3
+Capitulo 3 roto en la parte de los flashbacks
+Errores de traduccion de batalla de Po en el Capitulo 3
 
 v1.3 (JUEGO COMPLETO):
 Agregado:
-Capítulo 3
+Capitulo 3
 Nuevo lanzador
-Nuevo menú principal
+Nuevo menu principal
 Nuevas configuraciones
-Remoto:
-Modo de recolección
+Eliminado:
+Modo Recoger
 
 DEMO v1.2:
 Agregado:
-Capítulo 2 Completo
-Capítulos desbloqueables
+Capitulo 2 Completo
+Capitulos desbloqueables
 Correcciones de errores y ajustes.
 
 DEMO v1.1:
 Agregado:
-Nuevo menú principal
+Nuevo menu principal
 Nuevo modo de juego (Modo Recoger BETA)
-Nuevas características
-Selección de capítulo
-Capítulo completo 0
-Capítulo 2 DEMOSTRACIÓN
-Corrección de errores y ajustes
-Optimización y etc.
+Nuevas caracteristicas
+Seleccion de capitulos
+Capitulo completo 0
+Capitulo 2 DEMO
+Correccion de errores y ajustes
+Optimizacion y etc.
 
 DEMO v1.0:
-Versión de lanzamiento por primera vez.
+Version de lanzamiento por primera vez.
