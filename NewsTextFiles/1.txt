@@ -1,15 +1,15 @@
-v1.3.2 (Actualización de logros y secretos)
+v1.3.2 (Actualizacion Logros & secretos)
 Agregado:
-Laa Laa viva ruta original
+Ruta original de Laa Laa viva
 Iniciar sesión con GameJolt
 Logros
 Molino de viento en tierra firme
-Mochila para guardián en todos los capítulos.
+Mochila para el Guardián en todos los capítulos.
 Idioma Portugués
 Actualizado:
 Escenas iniciales en el capítulo 0 (Día y Noche)
-Alguna parte de los capítulos 0, 1 y 2.
-los creditos
+Alguna parte de los capítulos 0, 1 y 2
+Los creditos
 Cambió:
 La seleccion de juegos fue cambiada por un launcher
 Correcciones de errores:
@@ -18,7 +18,7 @@ Efectos visuales del huevo de pascua de Laa Laa
 Eliminado:
 Launcher antiguo
 
-v1.3.1 (La actualización del parche UltraBugFix)
+v1.3.1 (Parche UltraBugFix)
 Agregado:
 Nueva pantalla inicial (no launcher)
 Nueva opción en el menú de pausa
@@ -35,13 +35,13 @@ Nuevas configuraciones
 Remoto:
 Modo de recolección
 
-v1.2:
+DEMO v1.2:
 Agregado:
 Capítulo 2 Completo
 Capítulos desbloqueables
 Correcciones de errores y ajustes.
 
-DEMOSTRACIÓN v1.1:
+DEMO v1.1:
 Agregado:
 Nuevo menú principal
 Nuevo modo de juego (Modo Recoger BETA)
@@ -52,5 +52,5 @@ Capítulo 2 DEMOSTRACIÓN
 Corrección de errores y ajustes
 Optimización y etc.
 
-DEMOSTRACIÓN v1.0:
+DEMO v1.0:
 Versión de lanzamiento por primera vez.
