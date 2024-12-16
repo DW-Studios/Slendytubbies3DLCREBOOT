@@ -15,11 +15,13 @@ The initial launcher
 Bugfixes:
 Quicktime events on Chapter 0 and 2
 Laa Laa's easter egg visual effects
+Eliminado:
+Old Launcher
 
 v1.3.1 (The UltraBugFix Patch Update)
 Added:
 New initial screen (not launcher)
-Bug fixes
+Bugfixes:
 Chapter 3 broken in flashbacks
 New option in the pause menu
 Chapter 3 Po battle translation bugfix
