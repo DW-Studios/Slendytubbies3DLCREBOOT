@@ -29,10 +29,10 @@ Errores de traducción de batalla de Po en el Capítulo 3
 v1.3 (JUEGO COMPLETO):
 Agregado:
 Capítulo 3
-Nuevo lanzador
+Nuevo launcher
 Nuevo menú principal
 Nuevas configuraciones
-Remoto:
+Eliminado:
 Modo de recolección
 
 DEMO v1.2:
