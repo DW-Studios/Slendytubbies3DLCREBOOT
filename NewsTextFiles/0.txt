@@ -12,6 +12,7 @@ Dutch Language
 Post-Credits cutscenes for Bad, Evil and Regretful ending
 Chapter 1 Easter Eggs
 Chapter 2 Easter Egg (Cave Only)
+"Fur on Characters" Option in the settings menu
 Updated:
 Chapter 0 (Made from scratch)
 Initial cutscenes in chapter 0 (Day & Night)
@@ -34,6 +35,8 @@ Remote-controlled attacks in battles (Chapter 3)
 Deleted:
 Old Launcher
 Old Game Selector
+Night Vision Camera Hud Movement
+"Vsync" Option in the settings menu
 
 v1.3.1 (The UltraBugFix Patch Update)
 Added:
