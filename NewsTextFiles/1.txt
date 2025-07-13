@@ -1,22 +1,37 @@
-v1.4 (El Apocalipsis Ha Comenzado)
+v1.3.2 (Antes Del Apocalipsis)
 Agregado:
 Ruta original de Laa Laa viva
-Iniciar sesión con GameJolt
+Inicio de sesión con GameJolt
 Logros
 Molino de viento en MainLand
 Mochila para el Guardián en todos los capítulos.
 Idioma Portugués
+Idioma Ruso
+Idioma Rumano
+Idioma Holandés
+Escenas Post-Creditos para el final Malo, Malvado y Arrepentido
+Huevos de Pascua en el Capitulo 1
+Huevos de Pascua en el Capitulo 2 (Solo en la cueva)
 Actualizado:
+Capitulo 0 (Hecho desde cero)
 Escenas iniciales en el capítulo 0 (Día y Noche)
-Alguna parte de los capítulos 0, 1 y 2
-Los creditos
-Cambió:
-La seleccion de juegos fue cambiada por un launcher
+Los créditos
+Mejoras:
+La pantalla de "Selecciónar Juego" fue cambiado por un Launcher
 Correcciones de errores:
-Eventos de Quicktime en los Capítulos 0 y 2
-Efectos visuales en el Easter Egg de Laa Laa
+Chapter 0 Crashes
+Quicktime events del Capitulo 0 y 2
+Los efectos visuales del huevo de pascua de Laa Laa
+Iluminacion de la cabaña de las montañas
+Volumen de las musicas de las batallas
+Bug donde los efectos visuales en ciertos capitulos quedaba activado
+Configuracion de volumen
+Sensibilidad del Mouse en el modo Primera Persona
+Laa Laa atascada en el Capitulo 2
+Ataques teledirijidos en batallas (Capitulo 3)
 Eliminado:
-Launcher antiguo
+Viejo Launcher
+Selector de Juegos Viejo
 
 v1.3.1 (Parche UltraBugFix)
 Agregado:
