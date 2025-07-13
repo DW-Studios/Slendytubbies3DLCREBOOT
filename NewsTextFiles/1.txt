@@ -38,7 +38,6 @@ Selector de Juegos Viejo
 Movimiento del interfaz de la Camara de Visión Nocturna
 Opcion de "Sincronización Vertical" en las configuraciones
 
-
 v1.3.1 (Parche UltraBugFix)
 Agregado:
 Nueva pantalla inicial (no launcher)
