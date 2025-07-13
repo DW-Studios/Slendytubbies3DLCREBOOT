@@ -9,15 +9,15 @@ Portuguese Language
 Russian Language
 Romanian Language
 Dutch Language
-Updated:
-Chapter 0 from scratch
-Initial cutscenes in chapter 0 (Day & Night)
-The credits
 Post-Credits cutscenes for Bad, Evil and Regretful ending
 Chapter 1 Easter Eggs
 Chapter 2 Easter Egg (Cave Only)
+Updated:
+Chapter 0 (Made from scratch)
+Initial cutscenes in chapter 0 (Day & Night)
+The credits
 Improvements:
-The game selector
+The "Select Game" screen was replaced by a launcher
 Increased Difficulty in battles
 Night Vision Camera glitch effects
 Bugfixes:
