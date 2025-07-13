@@ -1,4 +1,4 @@
-v1.4 (The Apocalypse Has Begun)
+v1.3.2 (Before The Apocalypse)
 Added:
 Laa Laa alive original route
 Login with GameJolt
@@ -6,17 +6,34 @@ Achievements
 Windmill in Main Land
 Backpack for guardian in all chapters
 Portuguese Language
+Russian Language
+Romanian Language
+Dutch Language
 Updated:
+Chapter 0 from scratch
 Initial cutscenes in chapter 0 (Day & Night)
-Some part of chapters 0, 1 and 2.
 The credits
-Changed:
-The initial launcher
+Post-Credits cutscenes for Bad, Evil and Regretful ending
+Chapter 1 Easter Eggs
+Chapter 2 Easter Egg (Cave Only)
+Improvements:
+The game selector
+Increased Difficulty in battles
+Night Vision Camera glitch effects
 Bugfixes:
+Chapter 0 Crashes
 Quicktime events on Chapter 0 and 2
 Laa Laa's easter egg visual effects
-Eliminado:
+Mountains Cabin Lightning
+Battles music volume
+Visual Effects enabled forever in some chapters bug
+Volume Settings
+Mouse Sensitivity of First Person mode
+Laa Laa in Chapter 2 being stuck
+Remote-controlled attacks in battles (Chapter 3)
+Deleted:
 Old Launcher
+Old Game Selector
 
 v1.3.1 (The UltraBugFix Patch Update)
 Added:
