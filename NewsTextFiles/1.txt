@@ -12,14 +12,17 @@ Idioma Holandés
 Escenas Post-Creditos para el final Malo, Malvado y Arrepentido
 Huevos de Pascua en el Capitulo 1
 Huevos de Pascua en el Capitulo 2 (Solo en la cueva)
+Opcion de "Pelaje en los personajes" en las configuraciones 
 Actualizado:
 Capitulo 0 (Hecho desde cero)
 Escenas iniciales en el capítulo 0 (Día y Noche)
 Los créditos
 Mejoras:
 La pantalla de "Selecciónar Juego" fue cambiado por un Launcher
+Dificultad aumentada en las batallas
+Efectos de distorsión en la Camara de Visión Nocturna
 Correcciones de errores:
-Chapter 0 Crashes
+Crasheos en el Capitulo 0
 Quicktime events del Capitulo 0 y 2
 Los efectos visuales del huevo de pascua de Laa Laa
 Iluminacion de la cabaña de las montañas
@@ -32,6 +35,9 @@ Ataques teledirijidos en batallas (Capitulo 3)
 Eliminado:
 Viejo Launcher
 Selector de Juegos Viejo
+Movimiento del interfaz de la Camara de Visión Nocturna
+Opcion de "Sincronización Vertical" en las configuraciones
+
 
 v1.3.1 (Parche UltraBugFix)
 Agregado:
