@@ -67,7 +67,7 @@ Nuevo menú principal
 Nuevo modo de juego (Modo Recoger BETA)
 Nuevas características
 Selección de capítulo
-Capítulo completo 0
+Capítulo 0 completo
 Capítulo 2 DEMO
 Corrección de errores y ajustes
 Optimización y etc.
