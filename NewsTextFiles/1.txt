@@ -1,5 +1,6 @@
 v1.3.2 (Antes Del Apocalipsis)
 Agregado:
+Nueva pantalla de Inicio.
 Ruta original de Laa Laa viva
 Inicio de sesión con GameJolt
 Logros
