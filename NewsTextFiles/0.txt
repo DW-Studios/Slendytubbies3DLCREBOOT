@@ -1,5 +1,6 @@
 v1.3.2 (Before The Apocalypse)
 Added:
+New splash screen.
 Laa Laa alive original route
 Login with GameJolt
 Achievements
