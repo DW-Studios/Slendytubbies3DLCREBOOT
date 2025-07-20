@@ -1,6 +1,6 @@
 v1.3.2 (Before The Apocalypse)
 Added:
-New splash screen.
+New splash screen
 Laa Laa alive original route
 Login with GameJolt
 Achievements
@@ -60,7 +60,7 @@ v1.2:
 Added:
 Chapter 2 Full
 Unlockable Chapters
-Bugfixes & Tweaks.
+Bugfixes & Tweaks
 
 v1.1 DEMO:
 Added:
@@ -74,4 +74,4 @@ BugFixes and Tweaks
 Optimization and Etc.
 
 v1.0 DEMO:
-First Time Realease Version.
+First Time Realease Version
