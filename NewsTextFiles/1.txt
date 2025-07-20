@@ -1,6 +1,6 @@
 v1.3.2 (Antes Del Apocalipsis)
 Agregado:
-Nueva pantalla de Inicio.
+Nueva pantalla de Inicio
 Ruta original de Laa Laa viva
 Inicio de sesión con GameJolt
 Logros
@@ -60,7 +60,7 @@ DEMO v1.2:
 Agregado:
 Capítulo 2 Completo
 Capítulos desbloqueables
-Correcciones de errores y ajustes.
+Correcciones de errores y ajustes
 
 DEMO v1.1:
 Agregado:
@@ -74,4 +74,4 @@ Corrección de errores y ajustes
 Optimización y etc.
 
 DEMO v1.0:
-Versión de lanzamiento por primera vez.
+Versión de lanzamiento por primera vez
