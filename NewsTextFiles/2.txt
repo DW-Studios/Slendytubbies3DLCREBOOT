@@ -1,4 +1,77 @@
-YES
-NMO
-GNAIUJG
-PORTUGUESE
+v1.3.2 (Antes do Apocalipse)
+Adicionado:
+Novo ecrã inicial
+Rota original com Laa Laa viva
+Início de sessão com GameJolt
+Conquistas
+Moinho de vento na Terra Principal
+Mochila para o guardião em todos os capítulos
+Idioma Português
+Idioma Russo
+Idioma Romeno
+Idioma Holandês
+Cenas pós-créditos para os finais Mau, Maligno e Arrependido
+Easter Eggs no Capítulo 1
+Easter Egg no Capítulo 2 (apenas na Caverna)
+Opção "Pelo nas Personagens" no menu de definições
+Atualizado:
+Capítulo 0 (feito de raiz)
+Cenas iniciais do capítulo 0 (Dia e Noite)
+Os créditos
+Melhorias:
+O ecrã "Selecionar Jogo" foi substituído por um launcher
+Dificuldade aumentada nas batalhas
+Efeitos de falha na câmara de visão noturna
+Correções de erros:
+Falhas no Capítulo 0
+Eventos rápidos no Capítulo 0 e 2
+Efeitos visuais do Easter Egg da Laa Laa
+Iluminação da cabana nas Montanhas
+Volume da música nas batalhas
+Erro de efeitos visuais ativados permanentemente em alguns capítulos
+Definições de volume
+Sensibilidade do rato no modo primeira pessoa
+Laa Laa a ficar presa no Capítulo 2
+Ataques controlados remotamente nas batalhas (Capítulo 3)
+Removido:
+Launcher antigo
+Seletor de jogo antigo
+Movimento do HUD da câmara de visão noturna
+Opção "Vsync" no menu de definições
+
+v1.3.1 (Atualização UltraBugFix Patch)
+Adicionado:
+Novo ecrã inicial (não é o launcher)
+Correções de erros:
+Capítulo 3 com problemas nos flashbacks
+Nova opção no menu de pausa
+Correção de tradução da batalha com Po no Capítulo 3
+
+v1.3 (JOGO COMPLETO):
+Adicionado:
+Capítulo 3
+Novo Launcher
+Novo Menu Principal
+Novas Definições
+Removido:
+Modo Coleção
+
+v1.2:
+Adicionado:
+Capítulo 2 completo
+Capítulos desbloqueáveis
+Correções de erros e ajustes
+
+v1.1 DEMO:
+Adicionado:
+Novo Menu Principal
+Novo Modo de Jogo (Modo Coleção BETA)
+Novas Funcionalidades
+Seleção de Capítulo
+Capítulo 0 completo
+Capítulo 2 DEMO
+Correções de bugs e ajustes
+Otimizações e etc.
+
+v1.0 DEMO:
+Primeira Versão de Lançamento
