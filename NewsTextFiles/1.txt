@@ -8,7 +8,6 @@ Molino de viento en MainLand
 Mochila para el Guardián en todos los capítulos.
 Idioma Portugués
 Idioma Ruso
-Idioma Rumano
 Idioma Holandés
 Escenas Post-Creditos para el final Malo, Malvado y Arrepentido
 Huevos de Pascua en el Capitulo 1
@@ -75,3 +74,4 @@ Optimización y etc.
 
 DEMO v1.0:
 Versión de lanzamiento por primera vez
+
