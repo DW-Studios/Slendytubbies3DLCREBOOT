@@ -6,5 +6,9 @@
   "MSI": {
     "blocked": 1,
     "blockedmessage": "Saca TLD jomar, deja de cancelarlo la ptm"
+  },
+  "LAPTOP-730J9ITV": {
+    "blocked": 1,
+    "blockedmessage": "TEST"
   }
 }
