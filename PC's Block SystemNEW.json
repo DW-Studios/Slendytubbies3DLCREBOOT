@@ -17,8 +17,15 @@
     {
       "key": "LAPTOP-730J9ITV",
       "value": {
+        "blocked": 0,
+        "blockedmessage": "Ya saca reworked wei"
+      }
+    },
+    {
+      "key": "DESKTOP-0QTM4JA",
+      "value": {
         "blocked": 1,
-        "blockedmessage": "Ya saca reworked puto"
+        "blockedmessage": "Pinche furro y joto cabron"
       }
     }
   ]
