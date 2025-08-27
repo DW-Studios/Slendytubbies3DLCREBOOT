@@ -17,14 +17,14 @@
     {
       "key": "LAPTOP-730J9ITV",
       "value": {
-        "blocked": 1,
+        "blocked": 0,
         "blockedmessage": "Ya saca reworked wei"
       }
     },
     {
       "key": "DESKTOP-0QTM4JA",
       "value": {
-        "blocked": 1,
+        "blocked": 0,
         "blockedmessage": "Pinche furro y joto cabron"
       }
     },
