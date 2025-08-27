@@ -10,7 +10,7 @@
     {
       "key": "MSI",
       "value": {
-        "blocked": 1,
+        "blocked": 0,
         "blockedmessage": "Saca TLD jomar, deja de cancelarlo la ptm"
       }
     },
