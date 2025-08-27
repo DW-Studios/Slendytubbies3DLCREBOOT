@@ -1,14 +1,25 @@
 {
-  "DESKTOP-R7PK4D1": {
-    "blocked": 1,
-    "blockedmessage": "No super :)"
-  },
-  "MSI": {
-    "blocked": 1,
-    "blockedmessage": "Saca TLD jomar, deja de cancelarlo la ptm"
-  },
-  "LAPTOP-730J9ITV": {
-    "blocked": 1,
-    "blockedmessage": "TEST"
-  }
+  "entries": [
+    {
+      "key": "DESKTOP-R7PK4D1",
+      "value": {
+        "blocked": 1,
+        "blockedmessage": "No super :)"
+      }
+    },
+    {
+      "key": "MSI",
+      "value": {
+        "blocked": 1,
+        "blockedmessage": "Saca TLD jomar, deja de cancelarlo la ptm"
+      }
+    },
+    {
+      "key": "LAPTOP-730J9ITV",
+      "value": {
+        "blocked": 1,
+        "blockedmessage": "Ya saca reworked puto"
+      }
+    }
+  ]
 }
