@@ -1,3 +1,11 @@
+v1.3.21 (Patch)
+Added:
+Spanish (Spain) Language
+Polish Language
+Bugfixes
+Changed:
+Spanish Language is now changed to: Spanish (Latin)
+Credits
 v1.3.2 (Before The Apocalypse)
 Added:
 New splash screen
