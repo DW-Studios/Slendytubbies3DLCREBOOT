@@ -5,7 +5,9 @@ Polish Language
 Bugfixes
 Changed:
 Spanish Language is now changed to: Spanish (Latin)
+Updated:
 Credits
+
 v1.3.2 (Before The Apocalypse)
 Added:
 New splash screen
