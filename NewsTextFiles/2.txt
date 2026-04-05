@@ -3,6 +3,8 @@ Adicionado:
 Idioma Espanhol (Espanha)
 Idioma Polaco
 Correções de bugs
+Novo Easter Egg
+Ajustes Técnicos
 Alterado:
 O idioma Espanhol foi agora alterado para: Espanhol (Latino)
 Atualizado:
