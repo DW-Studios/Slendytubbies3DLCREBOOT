@@ -5,6 +5,7 @@ Idioma Polaco
 Arreglos de Errores
 Changed:
 El idioma Español fue cambiado a Español (Latino)
+Actualizado:
 Créditos
 
 v1.3.2 (Antes Del Apocalipsis)
