@@ -3,6 +3,8 @@ Added:
 Spanish (Spain) Language
 Polish Language
 Bugfixes
+New Easter Egg
+Technical Adjustments
 Changed:
 Spanish Language is now changed to: Spanish (Latin)
 Updated:
