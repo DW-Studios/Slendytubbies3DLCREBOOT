@@ -1,3 +1,12 @@
+v1.3.21 (Parche)
+Agregado:
+Idioma Español (España)
+Idioma Polaco
+Arreglos de Errores
+Changed:
+El idioma Español fue cambiado a Español (Latino)
+Créditos
+
 v1.3.2 (Antes Del Apocalipsis)
 Agregado:
 Nueva pantalla de Inicio
