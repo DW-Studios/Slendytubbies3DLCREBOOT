@@ -1,3 +1,13 @@
+v1.3.21 (Patch)
+Adicionado:
+Idioma Espanhol (Espanha)
+Idioma Polaco
+Correções de bugs
+Alterado:
+O idioma Espanhol foi agora alterado para: Espanhol (Latino)
+Atualizado:
+Créditos
+
 v1.3.2 (Antes do Apocalipse)
 Adicionado:
 Novo ecrã inicial
