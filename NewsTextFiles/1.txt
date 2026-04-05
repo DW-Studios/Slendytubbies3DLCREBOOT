@@ -2,8 +2,10 @@ v1.3.21 (Parche)
 Agregado:
 Idioma Español (España)
 Idioma Polaco
-Arreglos de Errores
-Changed:
+Correcciones de Errores
+Nuevo Huevo de Pascua
+Ajustes Tecnicos
+Cambiado:
 El idioma Español fue cambiado a Español (Latino)
 Actualizado:
 Créditos
