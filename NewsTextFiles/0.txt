@@ -1,3 +1,14 @@
+v1.4 (THE CRISIS HAS BEGUN)
+Added:
+Chapter 4 Part 1 (DEMO)
+New menu for the DLC
+Bugfixes:
+The Polish and Spanish (Spain) languages ​​have received adjustments and fixes
+The rocks in the outskirts area in chapter 2 of the campaign no longer block your path as much
+Changed:
+The ability to select DLC has been enabled in the launcher
+The credits
+
 v1.3.21 (Patch)
 Added:
 Spanish (Spain) Language
@@ -58,7 +69,7 @@ Chapter 3 broken in flashbacks
 New option in the pause menu
 Chapter 3 Po battle translation bugfix
 
-v1.3 (FULL GAME):
+v1.3 (FULL CAMPAIGN)
 Added:
 Chapter 3
 New Launcher
@@ -67,13 +78,13 @@ New Settings
 Removed:
 Collect Mode
 
-v1.2:
+v1.2
 Added:
 Chapter 2 Full
 Unlockable Chapters
 Bugfixes & Tweaks
 
-v1.1 DEMO:
+v1.1 DEMO
 Added:
 New Main Menu
 New Game Mode (Collect Mode BETA)
@@ -84,5 +95,5 @@ Chapter 2 DEMO
 BugFixes and Tweaks
 Optimization and Etc.
 
-v1.0 DEMO:
+v1.0 DEMO
 First Time Realease Version
