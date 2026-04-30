@@ -1,0 +1,99 @@
+v1.4 (LA CRISIS HA COMENZADO)
+Añadido:
+Capítulo 4 Parte 1 (DEMO)
+Nuevo menú para el DLC
+Corrección de errores:
+Se han realizado ajustes y correcciones en los idiomas Polaco y Español (España).
+Las rocas en la zona de las afueras del capítulo 2 de la campaña ya no obstruyen tanto el camino.
+Cambiado:
+Se ha habilitado la opción de seleccionar el DLC en el launcher.
+Los créditos
+
+v1.3.21 (Parche)
+Agregado:
+Idioma Español (España)
+Idioma Polaco
+Correcciones de Errores
+Nuevo Huevo de Pascua
+Ajustes Tecnicos
+Cambiado:
+El idioma Español fue cambiado a Español (Latino)
+Actualizado:
+Créditos
+
+v1.3.2 (Antes Del Apocalipsis)
+Agregado:
+Nueva pantalla de Inicio
+Ruta original de Laa Laa viva
+Inicio de sesión con GameJolt
+Logros
+Molino de viento en MainLand
+Mochila para el Guardián en todos los capítulos.
+Idioma Portugués
+Idioma Ruso
+Idioma Holandés
+Escenas Post-Creditos para el final Malo, Malvado y Arrepentido
+Huevos de Pascua en el Capitulo 1
+Huevos de Pascua en el Capitulo 2 (Solo en la cueva)
+Opcion de "Pelaje en los personajes" en las configuraciones 
+Actualizado:
+Capitulo 0 (Hecho desde cero)
+Escenas iniciales en el capítulo 0 (Día y Noche)
+Los créditos
+Mejoras:
+La pantalla de "Selecciónar Juego" fue cambiado por un Launcher
+Dificultad aumentada en las batallas
+Efectos de distorsión en la Camara de Visión Nocturna
+Correcciones de errores:
+Crasheos en el Capitulo 0
+Quicktime events del Capitulo 0 y 2
+Los efectos visuales del huevo de pascua de Laa Laa
+Iluminacion de la cabaña de las montañas
+Volumen de las musicas de las batallas
+Bug donde los efectos visuales en ciertos capitulos quedaba activado
+Configuracion de volumen
+Sensibilidad del Mouse en el modo Primera Persona
+Laa Laa atascada en el Capitulo 2
+Ataques teledirijidos en batallas (Capitulo 3)
+Eliminado:
+Viejo Launcher
+Selector de Juegos Viejo
+Movimiento del interfaz de la Camara de Visión Nocturna
+Opcion de "Sincronización Vertical" en las configuraciones
+
+v1.3.1 (Parche UltraBugFix)
+Agregado:
+Nueva pantalla inicial (no launcher)
+Nueva opción en el menú de pausa
+Errores corregidos:
+Capítulo 3 roto en flashbacks
+Errores de traducción de batalla de Po en el Capítulo 3
+
+v1.3 (CAMPAÑA COMPLETA)
+Agregado:
+Capítulo 3
+Nuevo launcher
+Nuevo menú principal
+Nuevas configuraciones
+Eliminado:
+Modo de recolección
+
+DEMO v1.2
+Agregado:
+Capítulo 2 Completo
+Capítulos desbloqueables
+Correcciones de errores y ajustes
+
+DEMO v1.1
+Agregado:
+Nuevo menú principal
+Nuevo modo de juego (Modo Recoger BETA)
+Nuevas características
+Selección de capítulo
+Capítulo 0 completo
+Capítulo 2 DEMO
+Corrección de errores y ajustes
+Optimización y etc.
+
+DEMO v1.0
+Versión de lanzamiento por primera vez
