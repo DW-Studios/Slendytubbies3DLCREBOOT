@@ -1,3 +1,14 @@
+v1.4 (LA CRISIS HA COMENZADO)
+Añadido:
+Capítulo 4 Parte 1 (DEMO)
+Nuevo menú para el DLC
+Corrección de errores:
+Se han realizado ajustes y correcciones en los idiomas Polaco y Español (España).
+Las rocas en la zona de las afueras del capítulo 2 de la campaña ya no obstruyen tanto el camino.
+Cambiado:
+Se ha habilitado la opción de seleccionar el DLC en el launcher.
+Los créditos
+
 v1.3.21 (Parche)
 Agregado:
 Idioma Español (España)
@@ -58,7 +69,7 @@ Errores corregidos:
 Capítulo 3 roto en flashbacks
 Errores de traducción de batalla de Po en el Capítulo 3
 
-v1.3 (JUEGO COMPLETO):
+v1.3 (CAMPAÑA COMPLETA)
 Agregado:
 Capítulo 3
 Nuevo launcher
@@ -67,13 +78,13 @@ Nuevas configuraciones
 Eliminado:
 Modo de recolección
 
-DEMO v1.2:
+DEMO v1.2
 Agregado:
 Capítulo 2 Completo
 Capítulos desbloqueables
 Correcciones de errores y ajustes
 
-DEMO v1.1:
+DEMO v1.1
 Agregado:
 Nuevo menú principal
 Nuevo modo de juego (Modo Recoger BETA)
@@ -84,6 +95,6 @@ Capítulo 2 DEMO
 Corrección de errores y ajustes
 Optimización y etc.
 
-DEMO v1.0:
+DEMO v1.0
 Versión de lanzamiento por primera vez
 
