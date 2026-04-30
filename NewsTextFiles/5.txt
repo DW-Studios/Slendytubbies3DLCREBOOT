@@ -1,0 +1,99 @@
+v1.4 (KRYZYS SIĘ ROZPOCZĄŁ)
+Dodano:
+Rozdział 4 Część 1 (DEMO)
+Nowe menu DLC
+Poprawki błędów:
+Języki polski i hiszpański (Hiszpania) zostały poprawione i dostosowane
+Skały na obrzeżach w rozdziale 2 kampanii nie blokują już tak bardzo drogi
+Zmieniono:
+Możliwość wyboru DLC została włączona w launcherze
+Napisy końcowe
+
+v1.3.21 (Patch)
+Dodano:
+Język hiszpański (Hiszpania)
+Język polski
+Poprawki błędów
+Nowe easter egg
+Poprawki techniczne
+Zmieniono:
+Język hiszpański został zmieniony na: hiszpański (łaciński)
+Zaktualizowano:
+Napisy końcowe
+
+v1.3.2 (Przed Apokalipsą)
+Dodano:
+Nowy ekran powitalny
+Oryginalna trasa Laa Laa Alive
+Zaloguj się przez GameJolt
+Osiągnięcia
+Wiatrak w grze głównej Ląd
+Plecak dla strażnika we wszystkich rozdziałach
+Język portugalski
+Język rosyjski
+Język holenderski
+Scenki po napisach dla zakończeń „Bad”, „Evil” i „Gretful”
+Easter Eggs z rozdziału 1
+Easter Egg z rozdziału 2 (tylko jaskinia)
+Opcja „Futro na postaciach” w menu ustawień
+Zaktualizowano:
+Rozdział 0 (Stworzony od podstaw)
+Początkowe przerywniki filmowe w rozdziale 0 (Dzień i noc)
+Napisy końcowe
+Ulepszenia:
+Ekran „Wybierz grę” został zastąpiony programem uruchamiającym
+Zwiększony poziom trudności w bitwach
+Efekty błędów kamery noktowizyjnej
+Poprawione błędy:
+Awarie w rozdziale 0
+Wydarzenia Quicktime w rozdziałach 0 i 2
+Efekty wizualne easter egga Laa Laa
+Błyskawica w górskiej chacie
+Głośność muzyki w bitwach
+Efekty wizualne włączone na zawsze w niektórych rozdziałach
+Ustawienia głośności
+Czułość myszy Trybu pierwszoosobowego
+Laa Laa w rozdziale 2 utknęła
+Zdalnie sterowane ataki w bitwach (rozdział 3)
+Usunięto:
+Stary program uruchamiający
+Stary wybór gry
+Ruch kamery noktowizyjnej
+Opcja „synchronizacja pionowa” w menu ustawień
+
+v1.3.1 (aktualizacja łatki UltraBugFix)
+Dodano:
+Nowy ekran początkowy (nie program uruchamiający)
+Poprawione błędy:
+Rozdział 3 uszkodzony we wspomnieniach
+Nowa opcja w menu pauzy
+Rozdział 3, naprawa błędu tłumaczenia bitwy
+
+v1.3 (PEŁNA KAMPANIA)
+Dodano:
+Rozdział 3
+Nowy program uruchamiający
+Nowe menu główne
+Nowe ustawienia
+Usunięto:
+Tryb zbierania
+
+v1.2
+Dodano:
+Rozdział 2 pełny
+Rozdziały do ​​odblokowania
+Poprawki błędów i ulepszenia
+
+wersja 1.1 DEMO
+Dodano:
+Nowe menu główne
+Nowy tryb gry (tryb zbierania BETA)
+Nowy Funkcje
+Wybór rozdziału
+Pełny rozdział 0
+Rozdział 2 DEMO
+Poprawki błędów i ulepszenia
+Optymalizacja itp.
+
+wersja 1.0 DEMO
+Wersja po raz pierwszy
