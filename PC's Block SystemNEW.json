@@ -27,6 +27,13 @@
         "blocked": 1,
         "blockedmessage": "Hola AJ, orita te desbloqueo :D"
       }
+    },
+    {
+      "key": "LAPTOP-730J9ITV",
+      "value": {
+        "blocked": 1,
+        "blockedmessage": "Oe we, por que te bloqueaste a ti mismo, no seas tarado"
+      }
     }
   ]
 }
